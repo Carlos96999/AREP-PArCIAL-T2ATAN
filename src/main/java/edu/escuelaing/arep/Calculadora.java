@@ -4,7 +4,7 @@ public class Calculadora
 {
 	public Calculadora() {}
 	
-	public double arcoTangente(double numero)
+	public static double arcoTangente(double numero)
 	{
 		return Math.atan(numero);
 	}
