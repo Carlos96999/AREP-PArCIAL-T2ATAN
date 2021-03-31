@@ -1,5 +1,7 @@
-# PArcial tercio dos servicio arcotangente
+# Parcial tercio dos servicio arcotangente
 Implementamos el servicio de arco tangente, la página del servicio https://npqt6iykc7.execute-api.us-east-1.amazonaws.com/parcial?value=3.141592  
+Enlace de la prueba  
+https://youtu.be/wtKnQ21RBhc  
 
 ## Prerequisitos
 * Maven
